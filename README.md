@@ -7,3 +7,6 @@ The rain sensor is a plate on which nickel is applied in the form of lines. It w
 The DHT11 is a basic, digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin.
 
 The soil moisture sensor uses capacitance to measure dielectric permittivity of the surrounding medium. In soil, dielectric permittivity is a function of the water content. The sensor creates a voltage proportional to the dielectric permittivity, and therefore the water content of the soil.
+
+Arduino Youtube video presentation:
+https://www.youtube.com/watch?v=2cNNIRl0MP0&ab_channel=MarijaDabic
